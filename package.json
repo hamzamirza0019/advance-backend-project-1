@@ -1,0 +1,18 @@
+{
+  "name": "advancebackendproject-1",
+  "version": "1.0.0",
+  "description": "First backend project with Express",
+  "keywords": [
+    "chai",
+    "code",
+    "Project",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Hamza Mirza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
