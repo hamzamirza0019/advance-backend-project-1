@@ -25,8 +25,7 @@ import { registerUser } from "./controllers/user.controller.js";
 // routes declaration
 app.use("/api/v1/users", userRoutes);
 
-// http://localhost:8000/users/register
-// http://localhost:8000/users/login
+
 
 
 
